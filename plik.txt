@@ -4,3 +4,4 @@ trzecialinia
 czwarta linia
 5
 szósta linia
+siódma linia 
