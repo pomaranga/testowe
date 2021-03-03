@@ -1,5 +1,5 @@
 to jest mój testowy plik z kodem
 druga linia mojego pliku
 trzecialinia
-czwarta
+czwarta linia
 5
