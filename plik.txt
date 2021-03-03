@@ -3,3 +3,4 @@ druga linia mojego pliku
 trzecialinia
 czwarta linia
 5
+szósta linia
