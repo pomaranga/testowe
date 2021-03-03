@@ -1,6 +1,6 @@
 to jest mój testowy plik z kodem
 druga linia mojego pliku
-trzecialinia
+trzecia linia
 czwarta linia
 5
 szósta linia
