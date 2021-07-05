@@ -6,3 +6,4 @@ czwarta linia
 szósta linia
 siódma linia 
 ósma linia
+pomaranga
